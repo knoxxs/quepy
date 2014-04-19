@@ -8,7 +8,7 @@ Dependeces
 * `nltk <http://nltk.org/>`_ - *if you intend to use nltk tagger*
 * `SPARQLWrapper <http://pypi.python.org/pypi/SPARQLWrapper>`_ *if you intend to use the examples*
 * `graphviz <http://www.graphviz.org/>`_ *if you intend to visulize your queries*
-
+* `doctopt <https://github.com/docopt/docopt>`_ *For beautiful command-line interfaces*
 
 From pip
 --------
